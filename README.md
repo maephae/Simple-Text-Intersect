@@ -12,3 +12,5 @@
  exclude recurring 
  return data from recurring i space with n length window
  scan for string and return the place it appears in text
+ two kinds of returns, string with space sep or array
+ 
